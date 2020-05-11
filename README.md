@@ -10,4 +10,4 @@ yarn start
 - Carbon Design
 
 ## Credits
-* (Trey Huffine portfolio)[git@github.com:treyhuffine/portfolio-create-react-app.git]
+* [Trey Huffine portfolio](git@github.com:treyhuffine/portfolio-create-react-app.git)
