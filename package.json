@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": false,
   "license": "MIT",
-  "homepage": "",
+  "homepage": "http://clintonlangosch.com",
   "dependencies": {
     "@carbon/colors": "^10.9.2",
     "@carbon/icons-react": "^10.6.1",
