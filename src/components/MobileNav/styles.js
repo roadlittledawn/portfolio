@@ -25,7 +25,7 @@ export const NavWrapper = styled.div`
 `;
 
 export const NavLink = styled(Link)`
-  width: 25%;
+  width: 33%;
 `;
 
 export const NavButton = styled(Button)`
